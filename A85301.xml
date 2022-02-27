@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the twenty weeks siege of London derry, by the Scotch, Irish, and dis-affected English, with the daily proceeding passages thereof: as also the number of men killd, and taken prisoners on both sides. / Related in two letters from Captaine Henry Finch, one of the Captains of London derry, and one of the Aldermen of the city. To his friend in London.</title>
+            <author>Finch, Henry, Alderman of Londonderry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85301</idno>
+            <idno type="STC">Wing F935</idno>
+            <idno type="STC">Thomason E573_4</idno>
+            <idno type="STC">ESTC R206199</idno>
+            <idno type="EEBO-CITATION">99865373</idno>
+            <idno type="PROQUEST">99865373</idno>
+            <idno type="VID">117613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117613)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E573[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the twenty weeks siege of London derry, by the Scotch, Irish, and dis-affected English, with the daily proceeding passages thereof: as also the number of men killd, and taken prisoners on both sides. / Related in two letters from Captaine Henry Finch, one of the Captains of London derry, and one of the Aldermen of the city. To his friend in London.</title>
+                  <author>Finch, Henry, Alderman of Londonderry.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I. for S.G. and A.W. and are to bee sold at the Exchange, and at Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Londonderry (Northern Ireland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117613:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION OF THE Twenty weeks Siege of <hi>London derry,</hi> By the Scotch, Iriſh, and Diſ-affected Engliſh, with the Daily Proceeding Paſſages thereof: As alſo the number of men killd, and taken Priſoners on both ſides.</p>
+            <p>RELATED In two Letters from Captaine <hi>Henry Finch,</hi> one of the Captains of <hi>London derry,</hi> and one of the Aldermen of the City.</p>
+            <p>To His Friend in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by R. I. for S. G. and A. W. and are to bee ſold at the Exchange, and at Weſtminſter. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117613:2"/>
+            <head>A True Relation of the twenty weeks Siege of <hi>London-Derry,</hi> By the <hi>Scotch, Iriſh,</hi> and <hi>Diſ-affected Engliſh.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>London-Derry</hi> 
+                  <date>19 <hi>June</hi> 1649.</date>
+               </dateline>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Ately I have received none from you, My laſt to you was the 14 of <hi>Februa<g ref="char:EOLhyphen"/>ry</hi> of all paſſages; with ſome relation of the alteration ſince, but I thought it would never have come to this height, as then there was a grumb<g ref="char:EOLhyphen"/>ling, and preſently it grew hotter, and in the Lagon they began to deny the payments agreed upon, ſo as Souldiers were ſent out for Diſtreſſes, and brought in ſome money, but Sir <hi>Alexan. Stuarts</hi> Quarters re<g ref="char:EOLhyphen"/>fuſed to pay any.</p>
+            <p>
+               <hi>March</hi> 22. Two Troops of Horſe went to Lether<g ref="char:EOLhyphen"/>kenny
+<gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:117613:3"/>
+               <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>keteers went out to make good the horſe retreate, but went not a mile off.) where wee tooke 45 priſoners, killed 16. whereof one was Maj. <hi>Belfore</hi> an able ſoul<g ref="char:EOLhyphen"/>dier, and a wiſe man, and another Captaine. 30 and odde. of the priſoners were exchanged for ſo many boules of meale, the reſt being Lieu. Col. <hi>James Gal<g ref="char:EOLhyphen"/>braith;</hi> 2 Majors, 1 Captain and other Officers and Country men, who are reſerved for ranſome or other ends; brought eight coulors, and narrowly eſcaped many other Commanders, and all this without the loſſe of one man, one hurt.</p>
+            <p>26 We begin to fire our Sabberles over the Bog, and pull down the cabines, ditches, and cut down all the Orchards and Gardens.</p>
+            <p>
+               <hi>May</hi> 2, A party of our men went over the water and fired ſome of the houſes, killed ſome men, and brought away ſome plunder.</p>
+            <p>The 3. All the Cowes wee had about the <hi>Derry</hi> (which was about 80) was taken by the enemy, which was very grievous to the poor people, and many houſ<g ref="char:EOLhyphen"/>holders.</p>
+            <p>The 5th. They came with their Tents and laid cloſe ſiedg to <hi>Derry</hi> within Cannon ſhot of the towne, and in one night intrenched themſelves beyond expectati<g ref="char:EOLhyphen"/>on, which daily ſince the enemy have been ſtrength<g ref="char:EOLhyphen"/>ening.</p>
+            <p>
+               <hi>May</hi> 13 Our Horſe upon the Strand beyond the Gallows, was charged with a ſtronger party of their Horſe, but God gave us the Victory, and five of theirs was laid dead, and only one was brought alive into the Town, being ſhot thorow, and exchanged for one
+<pb n="4" facs="tcp:117613:4"/>
+of ours then taken, but he dyed within a few dayes after his return, we had little hurt.</p>
+            <p>
+               <hi>May</hi> 15 Another Skirmiſh by the Bogge ſide, where was three priſoners of theirs taken, and ſix kild.</p>
+            <p>17 We gave an allarm in the night, to the other ſide of the water, with our Boats, but landed not, yet raiſed the whole Country from <hi>Strabaine</hi> to <hi>Magilli<g ref="char:EOLhyphen"/>gan.</hi>
+            </p>
+            <p>19 They deſire a Treaty, which was continued to the 23 day, but it was on their parts feignedly, not with any reall intentions, and ſo to no effect, but to gain time to ſecure their leagure by making new works which our ordnance did annoy.</p>
+            <p>26 A comfortable ſupply of wheat came from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> with a boate laden with barley, taken by the Convoy bound for <hi>Dublin,</hi> which was landed for our ſtore, but my Lord gave ſatisfaction for it to the ow<g ref="char:EOLhyphen"/>ner, with a ſmall Barke wherein was ſome few Cowes and Horſes, which were taken by the ſaid Convoy being bound for <hi>Scotland.</hi>
+            </p>
+            <p>The ſame day came Sir <hi>Robert Stuart</hi> and Col. <hi>Mer<g ref="char:EOLhyphen"/>vin</hi> to the Leagure which (as is ſaid) had been broke up that night had they not come.</p>
+            <p>29 They took two Priſoners of ours in the night out of their beds lying without the Biſhops gate, which were reſtored for one of theirs.</p>
+            <p>30 Our men went over the water, and burnt ſome houſes, ſome men killed, and plunder taken.</p>
+            <p>
+               <hi>June</hi> 1. All our Horſe, 150 Foot, went over the water, the Horſe went to Goldſmiths new Towne, fought with a party of Horſe and Foot, routed them, fired the Country, killed about thirty, took two pri<g ref="char:EOLhyphen"/>ſoners,
+<pb n="5" facs="tcp:117613:4"/>
+more they might, but would not, brought over ſome Engliſh, took a prey of 300 and odde cowes, as many ſheep, ſome horſes, with other plunder, fired and killed to the very Mough without any loſſe, onely one man, which loſt himſelfe in a glotious attempt, and God was mercifull in ſhewing ſo great a mercy to ſo few hands.</p>
+            <p>3. The Cows being too many to keep for eating up our graſſe, and not fit to kill, ſo many as were not uſefull, was ſold to the Enemy for 10 <hi>s.</hi> a peece, upon parrole, and was currantly paid.</p>
+            <p>8. The Enemy in one night had built an incredible peece of work within almoſt musket ſhot of our Towne, upon the top of the hill upon the way of <hi>Bal<g ref="char:EOLhyphen"/>lymackerooty:</hi> upon which my Lord Preſident drew out all his Horſe, and about 200 Foot marcht up to the worke, who immediately left it, gave alarm to the Leagure, our men marched round about it, a party of Horſe encountred theirs, routed them, and our other part of horſe comming in, gave them the chaſe for two miles, killed 25, took priſoners 6, got many horſes, good ſtore of cloaks, ſome arms, and came and threw downe their new worke, and after ſent a challenge to the Leagure to come out and fight them, ſtanding in Battalia above an houre within Musket ſhot of their Leagure, but they came not out, nor gave any anſwer to their ſummons, although they were more then three for one; much ſhot was exchanged this day be<g ref="char:EOLhyphen"/>tween their Musketteers and ours, but no hurt done to our party, many ſlightly wounded, but none mor<g ref="char:EOLhyphen"/>tally; the charge of Horſe was in ſight of the Towne bravely and reſolutely given and received on both
+<pb n="6" facs="tcp:117613:5"/>
+ſides, but admirable was the ſucceſſe, and divine pro<g ref="char:EOLhyphen"/>vidence did ſhew it ſelfe mightily therein in the chaſe they fired two miles, and beat up all their out-guards, ſome of their powder in the Leagure blew up, and kill'd one man.</p>
+            <p>13. A new Fort which were a building at the Windmill was near finiſhed, being throwne downe by the Enemy this night, the wind being high, he was not diſcovered till done.</p>
+            <p>15. Three companies of Engliſh came in about 200. beſides officers, without victualls or cloaths, and a great defect in Armes, not above halfe armed, which is ſupplied by my Lord Preſident in ſome meaſure.</p>
+            <p>18. White Caſtle was this night plundred by ſome of our men, and the Sea-men, got ſome Mault, Barly, meal, and much other luggage from thence, and other places.</p>
+            <p>19. The Scotch boat that was taken with the Cows and Horſes bound for <hi>Scotland</hi> before mentioned, was manned out, and this day brought in two other ſmall Scotch boats bound for <hi>Scotland</hi> from <hi>Colraine,</hi> laden with ſtaves, Clobords, Rounds, and ſome butter, but they miſſed of their maine deſigne, being a Bark laden with Butter, Tallow, and other good commodi<g ref="char:EOLhyphen"/>ties, &amp;c.</p>
+            <p>As if the Lord Preſident had had a foreſight, or ſome inſpiration of this buſineſſe, before any appea<g ref="char:EOLhyphen"/>rance was here, cauſed ſome 80. Horſe, and about 100. and odde Foot, to come hither <hi>Feb.</hi> 5. out of <hi>Connough,</hi> and made ſtay of all manner of victualls and proviſions, of which at this time of the yeare this
+<pb n="7" facs="tcp:117613:5"/>
+Towne was never ſo furniſhed, which hath mightily diſappointed our adverſaries, who did believe one month would have ſtarved us, but praiſed be God, af<g ref="char:EOLhyphen"/>ter three months ſiege, there is not one ſicke or feeble body among us, and now in a better condition then the firſt day of the ſiege, our greateſt want is and will be firing, there being no other firing but old houſes and trees got out of Orchards; for we ſuppoſe provi<g ref="char:EOLhyphen"/>ſions will be plentifully ſent us by the Parliament, which we daily expect: It is not without a great pro<g ref="char:EOLhyphen"/>vidence of God, that ſalt Beef, Herring, ſalt Cod, ſalt Salmon, at the time of the year drinking little (ſome nothing) but water, ſhould prove ſo nouriſhing as it doth, and not rather breed diſeaſes. This is a part of the proceedings here ſince my laſt; but ſhould I write you the laborious care, induſtry, and vigilency of our Go<g ref="char:EOLhyphen"/>vernour, ſcarce once in a week going to bed, nor ſlee<g ref="char:EOLhyphen"/>ping at moſt times above two hours in twenty four, the gallantry of our horſe, and ſtoutneſſe of our foot, with every particular action. I ſhould be too large, I ſhal I fear, loſe the conveyance of this by my prolixity. So I conclude, with commendations to your ſelfe, friends, and reſt,</p>
+            <closer>
+               <dateline>
+                  <hi>London derry</hi> 
+                  <date>15. <hi>June,</hi> 1649.</date>
+               </dateline>
+               <signed>Your aſſured friend and ſervant, <hi>Henry Finch.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>I cannot ſay punctually that juſt ſo many men were killed at the skirmiſhes mentioned, yet by the report of the Souldiery, and of the Country, they were rather more then leſſe.</p>
+            </postscript>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:117613:6"/>
+            <opener>
+               <dateline>London-derry, <date>Auguſt <hi>15. 1649.</hi>
+                  </date>
+               </dateline>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>MY laſt I writ to you, was of 19. or 20. of <hi>June,</hi> ſince no occaſion hath preſented, nor none came from you, nor indeed from any place elſe, all paſſages having been obſtructed.</p>
+            <p>
+               <hi>June</hi> 24. What had paſt from the beginning of our ſiege to that time, I advertiſed; ſince the moſt materi<g ref="char:EOLhyphen"/>all are: Moſt of our horſe, and 100 foot before day, went to ſurpriſe the Enemies horſe-guard, which lay at <hi>Mervins</hi> Mill, a mile of the Towne, but were diſcove<g ref="char:EOLhyphen"/>red by the guards on the other ſide of the water, the alarm being given, they took horſe, and left the place, killed three men, and tooke nine cowes, ſo we took the plunder, and fited the Mill, and foure or five houſes.</p>
+            <p>28. Theſe dayes paſt was ſpent in pulling downe of houſes, and the mills, bringing home the wood for firing, and the ſtones for horſe-mills, onely one day a skirmiſh of the foot, where the Enemy loſt foure men.</p>
+            <p>30. The Preſidents brother, and other officers of <hi>Connaugh</hi> (the number of twenty horſe in all, who were long before expected with their forces) came hither, having made a ceſſation for a month with the Scotch, but were to returne in 48 houres, which they did, but <hi>July</hi> 2. in the time of their ſtay, a great skir<g ref="char:EOLhyphen"/>miſh was almoſt all day between our foot and theirs, our horſemen being all in Towne diſpatching buſi<g ref="char:EOLhyphen"/>neſſe with their friends of <hi>Connaugh,</hi> onely a few
+<pb n="9" facs="tcp:117613:6"/>
+which guarded the horſes, 12. whereof went to ſe<g ref="char:EOLhyphen"/>cond our foot, which was preſently encountred with a like party of theirs, which had ſcarce exchanged their piſtols, when 100 and odde horſe comes amaine upon thoſe few, and all their foot upon ours, beat our men to the walls, and with a full carrear came all a<g ref="char:EOLhyphen"/>long the wall within piſtoll ſhot thereof, and cloſe un<g ref="char:EOLhyphen"/>der our new work, firing all the way; yet bleſſed be God, we loſt not a man, five of theirs was kill'd, and 2 taken priſoners, ſome of ours hurt, moſt recovered; in probability had the horſmen been out, and our foot had Ammunition, which they had not, having ſpent it in the skirmiſh, a glorious day had been on our parts. <hi>Sligo</hi> ſold to <hi>Clanricard</hi> by <hi>Henderſon,</hi> whereby <hi>Con<g ref="char:EOLhyphen"/>nough</hi> his loſt.</p>
+            <p>Theſe eight dayes paſt, have reſorted to the Enemy great numbers of horſe and foot, and daily skirmiſhes, and have brought to their Leagure 12 peeces of Ord<g ref="char:EOLhyphen"/>nance, whereof they ſhot three peeces, carrying 4 <hi>l.</hi> bullet, but being without effect, they have made no more uſe of them. Col. <hi>George Monroe</hi> came to them with a party of horſe and foot, who more then a month before, came to them with (as reported) 3 or 400 horſe, 12 or 1500 foot Engliſh, Scotch, and Iriſh, which have miſerably harried al the Country, retaken <hi>Colraine,</hi> and thoſe parts.</p>
+            <p>12. They built a Fort at the Knock of <hi>Ember,</hi> to ſtop ſhipping and boats to come to us (which for 20 daies paſt, mightily relieved this place out of <hi>Em<g ref="char:EOLhyphen"/>ſtoun</hi> with freſh victualls) and having many hands, by noon, had made a defenſible peece of worke; to ſlight which, and to get their Ordnance, the Preſident ſent
+<pb n="10" facs="tcp:117613:7"/>
+Cap. <hi>Keyſer</hi> (a Par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhip here) with 100 musketteers in boats, but they were ſo provided, that after exchan<g ref="char:EOLhyphen"/>ging on both ſides good ſtore of ſhot both great and ſmall, the ſhip and boats went to <hi>Culmore,</hi> and could not returne.</p>
+            <p>13 <hi>Keyſer</hi> went his way without leave, taking a great diſheartning to loſe him, who ſtood us in great ſtead, and 100 of our beſt men which would not re<g ref="char:EOLhyphen"/>turne.</p>
+            <p>16 They vapoured very much all day, but approa<g ref="char:EOLhyphen"/>ching ſomething too near, two of their horſes, and one man was kill'd by one of our peeces of Ordnance, which indeed is all the hurt I know they have done: ſome fault there is in platforms.</p>
+            <p>19. This day came about 400 horſe, and 150 Dra<g ref="char:EOLhyphen"/>goons of <hi>Connaugh</hi> forces on the other ſide the water, unexpected by us, and brought <hi>Humfry Galbraith</hi> and <hi>Dean Bartly,</hi> and a Lieu. priſoners, immediately they ſend downe a party of their horſe to bring off out 100 men went with <hi>Keyſer,</hi> who had lived the week paſt upon <hi>Emſtowne,</hi> wanting nothing, but taking what they pleaſed.</p>
+            <p>20. The laſt night they remove their ſiege, and our men this day bring all their Cabins &amp; Huts that was in the Trench, and made of it for firing about 20. or 30 <hi>li.</hi>
+            </p>
+            <p>21 The enemy within a mile of the Towne draws up into battalia both horſe and foot, and ſeem reſolved to fight, ours the like, but the ground being bad, and night approaching, nothing was done.</p>
+            <p>24 A party of 24 of our horſe being ſent out to diſ<g ref="char:EOLhyphen"/>cover the enemy, met with a party of theirs of 80, ſent for the ſame end, charged and routed them, took two
+<pb n="11" facs="tcp:117613:7"/>
+priſoners, both Engliſh, whereof <hi>Henry Pige,</hi> Col. <hi>Mer<g ref="char:EOLhyphen"/>vins</hi> Barber was one, 11 horſes killed, 9 or 10 men, without any loſſe to us, onely two men hurt; this night a party of 100 horſe, and as many Dragoons, were ſent into <hi>Emſtown</hi> for contribution.</p>
+            <p>25 The Enemy appears in great numbers, not leſſe of horſe and foot then 3000. which put us in a great fright, our party out of Emſtowne not being returned, about noon they drew into Battalia, ſo did we, and ſtood about an houre; when they marched to Emſ<g ref="char:EOLhyphen"/>town to get between our party and us, who by Gods providence came only time enough to get the ſhelter of Culmore, but ſo neer were they, that the Van beat up our Rear, one quarter of an houre longer had in<g ref="char:EOLhyphen"/>dangered or loſt them all, a part of their prey they did take, but brought 500 Cows beſides Sheep, &amp;c. The way not paſſable on this ſide, they Ferryed over at Culmore, and came on the other ſide, but by that time they came here, the prey was reduced to 200, or leſſe.</p>
+            <p>26 The Lord of Ards, ordered by the Prince to be Governour, or Commander in chiefe of Ulſter, by commiſſion, wherof he ſent the Lord Preſident a Co<g ref="char:EOLhyphen"/>py and a Summons in a threatning way, ſets down before this Towne, at a little more diſtance then the former Leagure; but in the night forty of our men gave them a hot alarm, and put them in a cruell con<g ref="char:EOLhyphen"/>fuſion.</p>
+            <p>27 One of our Scouts was ſhot by an Ambuſh of Musketeers, wee took ſeverall priſoners this day go<g ref="char:EOLhyphen"/>ing to their Leagure, all ſaying they would not riſe till they had the Town.</p>
+            <pb n="12" facs="tcp:117613:8"/>
+            <p>21 A little before noon the enemies foote drawes neer our horſes, then a graſing, and before they could wel bridle were upon them, but they preſently moun<g ref="char:EOLhyphen"/>ted and gave them the chaſe, cut and killed very ma<g ref="char:EOLhyphen"/>ny this was upon the ſide of the hill, the enemies horſe were ready but out of ſight, fell in the purſute of the foot, ours diſcovered them, who having ſpent their ſhot were glad to retreat a maine ſpeed, and were fol<g ref="char:EOLhyphen"/>lowed with much eagerneſſe; at the foot of the hill the enemies charge was received by a few of our horſe, the main body of horſe not moving as they ſay for want of Commanders, however great was the con<g ref="char:EOLhyphen"/>fuſion, and the enemy followed our men to the wind-mill or as neer the town, but immediately they ralli<g ref="char:EOLhyphen"/>ed and faced about: the enemy made an orderly re<g ref="char:EOLhyphen"/>treat, but ſo as the diſpute was hot, this Skirmiſh con<g ref="char:EOLhyphen"/>tinued near two hours all in much confuſion, yet bleſ<g ref="char:EOLhyphen"/>ſed be God we had no more loſſe, when once all was in hazzard, we loſt four men upon the place, two dy<g ref="char:EOLhyphen"/>ed n xt day, 12 or 14 wounded, I think moſt is paſt the worſt;</p>
+            <p>Of the other party, Lieu. Col. <hi>Ro. Galbraith,</hi> dange<g ref="char:EOLhyphen"/>rouſly wounded, Cap <hi>Fleming,</hi> of <hi>Phaughanvaile,</hi> Li u. <hi>Macklehan</hi> a bloody fellow, ſome other Officers, and about 30 or 40 in all kild: taken priſoners 1 Lieu. 2 troopers of theirs, of ours eight, whereof one dyed.</p>
+            <p>We have two ſhips at <hi>Culmore,</hi> came up to try the Fort to come by, the winde fell calme ſo as they could neither come up nor return, between them and the Fort was diſcharged 80 pieces of Ordnance, without any great hurt on either ſide.</p>
+            <p>29 While our horſe came home the enemy removes
+<pb n="13" facs="tcp:117613:8"/>
+in great haſt and leaves their new leagure, marching away, gave order to the Country to ſhift for them<g ref="char:EOLhyphen"/>ſelves, as they did when they l ft their former leagure; we ſettle a Garriſon at <hi>John Elumes</hi> houſe.</p>
+            <p>
+               <hi>Auguſt</hi> 2 and 3 We burn <hi>Carganes,</hi> Sir <hi>John Cun<g ref="char:EOLhyphen"/>inghams</hi> Newtown <hi>Colmacktreene;</hi> and St. <hi>Johnſtown.</hi>
+            </p>
+            <p>4, 5 and 6. Some overtures and interchanging of letters have been about exchanging of Priſoners, and offers of Treaty; but nothing done more then the pri<g ref="char:EOLhyphen"/>ſoners exchanged, who came hither the 6th.</p>
+            <p>7 Upon ſome Articles of agreement, came <hi>Owen — Oneale</hi> with 300 Horſe and 4000 foote to our releife, and incamped on the other ſide of the water.</p>
+            <p>8. <hi>O Neal</hi> ſent to ſummon <hi>Goldſmiths</hi> town which was rejected, a party of our Horſe and Dragoones with 500 of <hi>Oneales</hi> foot marched into <hi>Emſtowne</hi> for a preſent releif of <hi>Oneals</hi> men and ours, but their con<g ref="char:EOLhyphen"/>tribution being not ready; they take of the readieſt 160 cowes and 30 or 40 Oxen.</p>
+            <p>9. <hi>Oneale</hi> by a party of his again comes to <hi>Gold<g ref="char:EOLhyphen"/>ſmiths</hi> town, attempts to ſcale the bawne but were put off with the loſſe of a Captain and 30 or 40 Souldiers.</p>
+            <p>Sir <hi>Robert Stuart</hi> with ſo many as would ſide with him marched away, would have had the Country gone with him, promiſing to return ſuddenly with an Army of 10000.</p>
+            <p>10 <hi>New Buildings</hi> or <hi>Goldſmiths</hi> towne quitted and taken by <hi>Oneale</hi> wherein was good ſtore of mault and other proviſions.</p>
+            <p>11 Their new Fort called <hi>Charles</hi> Fort upon the water was ſurendred to the Preſident wherin was 180 men 11 Peeces of Ordnance and 4 ſmall Drakes upon
+<pb n="14" facs="tcp:117613:9"/>
+one carriage, little Ammunition or proviſion.</p>
+            <p>The Souldiers left all their Armes: but their pow<g ref="char:EOLhyphen"/>der-bags, hornes, Bandaleeres, <hi>&amp;c.</hi> being laid upon a heap (through accedent or negligence) blew up and burnt ſeverall of our Officers and ſome Souldiers very ſore, and ſome horſes, one or two in danger of death.</p>
+            <p>Two peece of Ordnance were taken at new Buil<g ref="char:EOLhyphen"/>dings.</p>
+            <p>12 <hi>Eale</hi> Caſtle delivered up a Serjeant and two file of men left in it, <hi>Mogerline,</hi> Lieu. Col. <hi>Jam. Galbraiths</hi> houſe delivered up, and Cap. <hi>Gore</hi> and a party of 20 or 30 left in it.</p>
+            <p>13 <hi>Rophee</hi> Caſtle Summoned but rejected the Sum<g ref="char:EOLhyphen"/>mons.</p>
+            <p>Cap. <hi>Kilner</hi> came to town (having till Saturday at night paſt, in a manner been kept priſoner by the Scots) who then left them, the Engliſh and Iriſh return thither who hath about 40 good men, armes and ammunition and will ſuddenly be ſtrengthened.</p>
+            <p>The Scots in theſe parts all fled to <hi>Ballicelly</hi> and <hi>Ballicaſtle</hi> which they victual &amp; intend to make good.</p>
+            <p>14 A party of our own horſe and foot and ſome of <hi>Oneals</hi> marched with 3 peeces of Ordnance to <hi>Rophee</hi> Caſtle to beleagure it. The whole Country in effect comes in, ſubmits, and gets protections.</p>
+            <p>
+               <hi>Thus briefly have I given you a relation of our buſineſſe which you may beleeve to be true, a few daies will either strengthen or alter our conditions much, the grand party of the Scots drawing to heads I hear Mr. King is going down for aide, Now thinking I have been over tedious, communicate this to ſuch and ſo many of our friends as you think fitting to whom I deſire, with your ſelf to be remembred, I reſt, your aſſured Friend.</hi>
+            </p>
+            <closer>
+               <signed>Henry Finch.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
